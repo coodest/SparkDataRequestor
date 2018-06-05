@@ -1,0 +1,5 @@
+greeting:
+  tags:
+    - S4-A
+  script:
+    - echo "Greetings!"
